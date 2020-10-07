@@ -1,0 +1,24 @@
+#section-1
+{
+    animation-duration: 3s;
+    animation-delay: 1s;
+    
+}
+#section-2
+{
+    animation-duration: 4s;
+    animation-delay: 1s;
+    
+}
+#section-3
+{
+    animation-duration: 4s;
+    animation-delay: 1s;
+    
+}
+
+p
+{
+    text-align: justify;
+    padding-top: 20px;
+}
